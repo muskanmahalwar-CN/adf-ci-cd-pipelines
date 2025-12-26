@@ -1,9 +1,9 @@
 {
-	"name": "pipeline4",
+	"name": "pipeline5",
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy data4",
+				"name": "Copy data 5",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -49,7 +49,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "DelimitedText6",
 						"type": "DatasetReference"
 					}
 				],
