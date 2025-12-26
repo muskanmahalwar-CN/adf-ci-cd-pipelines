@@ -1,0 +1,9 @@
+{
+	"name": "adf-data-prod-muskan123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c3af718-5d69-41e3-9857-bbba38bfe18b",
+		"tenantId": "7ef3b4b6-3518-4ecc-888f-f5392f97feeb"
+	}
+}
